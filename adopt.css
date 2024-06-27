@@ -1,4 +1,7 @@
 // CSS styles 
-.list-animal-name {
+.list-animal-name
+ a {
+	color: #c43022;
+	font-weight: bold;
   font-size: 24px;
 }
